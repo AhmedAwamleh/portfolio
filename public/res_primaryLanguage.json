@@ -39,10 +39,10 @@
         "startDate": "2022",
         "description": "webpage design using HTML5 and pure css and Vanilla JavaScript with LocalStorage :)",
         "images": [
-          "images/portfolio/photography/abstract-coding-wallpaper-dark-text-programming-future-concept-d-rendering-147291405.jpg",
-          "images/portfolio/photography/wallpapersden.com_programming-coding-language_1920x1080.jpg"
+          "images/portfolio/adventure/coding-wallpaper.png",
+          "images/portfolio/adventure/coding1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/AhmedAwamleh/NewRestaurant",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -59,10 +59,10 @@
         "startDate": "2022",
         "description": "One of the first apps I was working on my 301 Level. I had to design Page With Only Puree Css3 and HTML5 Witout using Flex and Grid!",
         "images": [
-          "images/portfolio/adventure/coding-wallpaper.png",
-          "images/portfolio/adventure/coding1.png"
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2-1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/AhmedAwamleh/Chocolate-Pizza",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,38 +81,20 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "LTUC - ASAC",
+        "title": "Full Stack Development",
+        "years": "6/2022 - Present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML 5",
+          "CSS 3",
+          "React",
+          "JavaScript"
+         
         ]
       }
+     
     ]
   }
