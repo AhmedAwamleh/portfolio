@@ -11,7 +11,7 @@ Start time: 6:00
 
 Finish time: 8:00
 
-Actual time needed to complete: 3 hours
+Actual time needed to complete: 2 hours
 
 
 https://main--portfolio-task5.netlify.app/
