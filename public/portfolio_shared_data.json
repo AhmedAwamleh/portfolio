@@ -1,11 +1,11 @@
 {
     "basic_info": {
       "name": "Ahmed Al-Awamleh",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full stack Developer|React " ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/AhmedAwamleh",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "images/ahmeed.png"
     },
     "skills": {
       "icons": [
